@@ -66,6 +66,17 @@ https://usergroups.databricks.com/sao-paulo-databricks-user-group/
 
 ---
 
+# 🆓 Databricks Free Edition
+
+Quer começar a praticar sem custo?
+
+A Databricks oferece uma edição gratuita para aprendizado e testes, ideal para quem está iniciando ou estudando para certificações.
+
+👉 Acesse a documentação oficial:  
+https://docs.databricks.com/aws/en/getting-started/free-edition
+
+---
+
 # 👤 Sobre o Autor
 
 Wiliam Rosa  
