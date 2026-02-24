@@ -74,6 +74,12 @@ Lead Organizer — São Paulo Databricks User Group
 🔗 LinkedIn:  
 https://www.linkedin.com/in/wiliam-rosa/
 
+# 📚 Minha Biblioteca Virtual (Ebooks)
+
+Este repositório também conta com o diretório `books/`, onde organizo minha biblioteca virtual com materiais de estudo:
+
+👉 [Acessar diretório de ebooks](./books)
+
 ---
 
 ## 💡 Contribuições
