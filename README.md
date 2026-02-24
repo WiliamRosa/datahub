@@ -78,7 +78,7 @@ https://www.linkedin.com/in/wiliam-rosa/
 
 Este repositório também conta com o diretório `books/`, onde organizo minha biblioteca virtual com materiais de estudo:
 
-👉 [Acessar diretório de ebooks](./books)
+👉 [Acessar diretório de ebooks](https://github.com/WiliamRosa/datahub/tree/main/ebooks)
 
 ---
 
