@@ -77,6 +77,19 @@ https://docs.databricks.com/aws/en/getting-started/free-edition
 
 ---
 
+# 📘 Guia de Estudos
+
+Material estruturado para preparação para certificações Databricks, incluindo:
+
+• Guia oficial do exame  
+• Cursos recomendados  
+• Simulados  
+• Estratégia de preparação  
+
+👉 [Acessar Guia de Estudos] (https://github.com/WiliamRosa/datahub/tree/main/guia_estudos.md)
+
+---
+
 # 👤 Sobre o Autor
 
 Wiliam Rosa  
